@@ -1,0 +1,19 @@
+{
+    "name": " micheleva/php_chatwork_api",
+    "description": "Barebone PHP API for Chatwork",
+    "license": "MIT",
+    "keywords": ["chatwork","api"],
+    "authors": [
+        {
+            "name": "micheleva",
+            "email": "xxx@xxx.jp"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "micheleva\\php_chatwork_api\\": "src"
+        }
+    }
+}
